@@ -8,4 +8,4 @@
 
 以下のように動作します。
 
-https://codelabo.com/1218/
+https://codelabo.com/posts/20200229085032
