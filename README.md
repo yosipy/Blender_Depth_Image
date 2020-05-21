@@ -9,3 +9,7 @@
 使用方法：
 
 https://codelabo.com/posts/20200229085032
+
+## ライセンス
+
+BlenderAPIを用いています。
